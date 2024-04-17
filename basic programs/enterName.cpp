@@ -7,6 +7,6 @@ int main()
     cout<<"may i know your name";
     cin>>name;
     //getline(cin,name);
-    cout<<"welcome John"<<name;
+    cout<<"welcome "<<name;
     return 0;
 }
