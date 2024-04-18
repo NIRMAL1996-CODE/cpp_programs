@@ -6,7 +6,7 @@ int main()
     int age;
     cout <<" ENTER AGE ="<< endl;
     cin>>age;
-    if(age>=12 && age<=50)
+    if(age>=12 || age<=50)
     {
         cout<<"young";
     }
