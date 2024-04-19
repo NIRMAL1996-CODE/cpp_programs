@@ -1,4 +1,4 @@
-//write aprogram to find the number is perfect number//
+//write aprogram to find the number is prime number//
 #include<iostream>
 using namespace std;
 int main()
