@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    int a[]={23,45,78,98,10},key;
+    int a[]={23,45,78,98,100},key;
     int size=sizeof(a)/sizeof(a[0]);
     bool found=false;
     int low=0,high=size-1,mid=0;
