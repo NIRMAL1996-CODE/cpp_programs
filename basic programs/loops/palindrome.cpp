@@ -14,7 +14,7 @@ int main()
        rev=rev*10+r;
    }
    cout<<rev<<" ";
-   if(rev==num)
+   if(rev==num)                                                                                                                         
    cout<<"its palindrome";
    else
    cout<<"its not a palindrome";
