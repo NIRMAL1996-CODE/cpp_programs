@@ -7,7 +7,7 @@ int main()
     ofstream ofs("my.txt",ios::trunc);
     ofs<<"john"<<endl;
     ofs<<26<<endl;
-    ofs<<"cs"<<endl;
+    ofs<<"css"<<endl;
     
     ofs.close();
 }
