@@ -6,7 +6,7 @@ using namespace std;
 int *fun(int size);
 int main()
 {
-    int *ptr,s=7;
+    int *ptr,s=9;
     ptr= fun(s);
     for(int i=0;i<s;i++)
     {
