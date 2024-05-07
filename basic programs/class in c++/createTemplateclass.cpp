@@ -19,14 +19,14 @@ arithmetic<T>::arithmetic(T a,T b)
     this->b=b;
 }
 template<class T>
-int arithmetic<T> :: add()
+T arithmetic<T> :: add()
 {
     T c;
     c= a+b;
     return c;
 }
 template<class T>
-int arithmetic<T> :: sub()
+T arithmetic<T> :: sub()
 {
     T c;
     c= a-b;
