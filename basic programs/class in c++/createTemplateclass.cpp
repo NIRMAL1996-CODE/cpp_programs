@@ -35,7 +35,7 @@ T arithmetic<T> :: sub()
 
 int main()
 {
-    arithmetic A(20,8);
+    arithmetic<int> A(20,8);
     
     cout<<"Add= "<<A.add()<<endl;
     cout<<"sub= "<<A.sub()<<endl;
