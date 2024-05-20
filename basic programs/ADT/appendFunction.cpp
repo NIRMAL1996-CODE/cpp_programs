@@ -1,4 +1,4 @@
-// write a program using inserting operations in an array//
+// write a program to perform append operations in an array//
 #include<stdio.h>
 #include<stdlib.h>
 struct array
