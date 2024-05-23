@@ -3,6 +3,7 @@
 #include<stdlib.h>
 struct array
 {
+    //test
     int A[10];
     int size;
     int length;
