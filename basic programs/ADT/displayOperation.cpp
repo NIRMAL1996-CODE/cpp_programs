@@ -12,7 +12,7 @@ void display(struct array arr)//this function is used to display elements of arr
     int i;
     printf("\n elements are\n");
     for(i=0;i<arr.length;i++)
-        printf("%d  \n",arr.A[i]);
+        printf("%d \n",arr.A[i]);
 }
 int main()
 {
