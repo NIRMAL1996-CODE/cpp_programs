@@ -7,7 +7,6 @@ struct node
     int data;
     struct node *next;
 }*first=NULL;
-
 void create(int A[], int n)
 {
     int i;
