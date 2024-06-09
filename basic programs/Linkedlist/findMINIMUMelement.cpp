@@ -1,4 +1,4 @@
-//write a program recursive version o find the minimum of elements in linkedlist//
+//write a program to find the minimum of elements in linkedlist//
 #include<stdio.h>
 #include<stdlib.h>
 
