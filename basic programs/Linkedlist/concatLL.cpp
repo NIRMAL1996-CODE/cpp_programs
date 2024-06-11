@@ -1,4 +1,4 @@
-//write a program to concat all the elements in a linkedlist//
+//write a program to concat all the elements in a linkedlist of two linkedlist//
 #include<stdio.h>
 #include<stdlib.h>
 
