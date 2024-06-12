@@ -10,10 +10,11 @@ struct node
 void create(int A[], int n)// craeting a node//
 {
     int i;
-    struct node *t , *last=NULL;
+    struct node *t , *last;
     head=(struct node *)malloc(sizeof(struct node));
     head->data= A[0];
     head->next=head;
+    last=head;
     
     for(i=1;i<n;i++)
     {
