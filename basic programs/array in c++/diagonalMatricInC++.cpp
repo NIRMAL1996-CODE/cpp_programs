@@ -7,7 +7,7 @@ class diagonalmatrix
 {
     //for implementing a matrix, we need a 'array pointer' for storing non-zero elements and for storing its dimenion that is  'n', as we need two different type of variables thats why we are using class//
 private:
-    int *a;
+      int *a;
     int n;
 public:
     diagonalmatrix()
